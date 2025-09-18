@@ -1,6 +1,6 @@
 # How to: Mobile annotations
 
-Mobile annotations are designed to support accessible UI design by providing clear, structured notes for interactive elements. Unlike other types of annotation in this library, **they assume foundational knowledge of mobile app accessibility** and include platform-agnostic, iOS, and Android annotations to guide implementation across different operating systems.
+Mobile annotations are designed to support accessible UI design by providing clear, structured notes for interactive elements. Unlike other types of annotation in this library, **these annotations assume foundational knowledge of mobile app accessibility**. They include iOS, Android, and platform-agnostic annotations to guide implementation across different operating systems.
 
 **Types of annotation:**
 - [Mobile Stamps and Details](#mobile-stamps-and-details)
