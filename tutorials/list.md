@@ -26,7 +26,7 @@ The unordered list is used to display a list of items where the order does not h
 
 #### Ordered list
 The ordered list is used to display a list of items where the order does matter, and items should be read in a linear order.
-- **Hide bullets** - Enable if the default list’s bullets will be hidden.
+- **Hide numbering** - Enable if the default ordered list numbering should be hidden.
 - **Starting number** - Used to specify an alternative starting number for the numbered list items.
 
 <img src="Images/ordered-list-details.png" alt="An ordered list pin annotation and a corresponding ordered list details annotation with both note numbers set to 2. The details annotation contains element information for the ordered list element <ol>, the list style set to none, and the starting number preset to 1." width="557">
