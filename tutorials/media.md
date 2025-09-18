@@ -134,7 +134,7 @@ You will also need to provide a transcript and add an audio description if there
     - **Note number**: Set this to match the corresponding **❖ Media Stamp**. This number should be unique and in relative sequence with other Details annotations on the same design.
     - **Downloadable** - Enable if it is possible for people to download the video.
     - **Player error message** - Specify a message that will be displayed if the video cannot be loaded.
-    - **Add poster image** - For **instances** where a poster image will be displayed before the video is played, use the related Poster image field to specify the src for the image.
+    - **Add poster image** - For instances where a poster image will be displayed before the video is played, use the related Poster image field to specify the src for the image.
     - **Autoplay** - Enable this if the video will autoplay. Note this will set the video to autoplay with the sound off, as to comply with the Web Content Accessibility Guidelines (WCAG) success criterion [1.4.2 Audio Control (A)](https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html).
     - **Link to transcript** - Specify where the content for the transcript can be found.
     - **Link to captions** - Specify where the captions file can be found. If your video does not have any sound, offer a caption that says “This video has no sound.”
