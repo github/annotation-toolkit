@@ -100,9 +100,7 @@ Find the "Annotation Toolkit" library in the Figma Asset panel. This is enabled 
 
 ## Support 
 
-This project uses GitHub issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. For new issues, file your bug or feature request as a new issue.
-
-To get help, submit bugs, ask questions, or make feature requests, create an [Issue](https://github.com/github/annotation-toolkit/issues) in this repository. The Annotation Toolkit is under active development and maintained by GitHub staff. We will do our best to respond to support, feature requests, and community questions in a timely manner.
+This project uses GitHub issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. To get help, submit bugs, ask questions, or make feature requests, create an [Issue](https://github.com/github/annotation-toolkit/issues) in this repository. The Annotation Toolkit is under active development and maintained by GitHub staff. We will do our best to respond to support, feature requests, and community questions in a timely manner.
 
 ### Internal Support options for GitHub employees
 The Accessibility Design team is here to help! GitHub colleagues have multiple ways to reach out to us:
@@ -132,9 +130,7 @@ Special thanks to the following legends for their early feedback and help improv
 
 
 ## Acknowledgement
-The GitHub Annotation Toolkit is a fork of the CVS Health Inclusive Design team’s [Web Accessibility Annotation Kit](https://www.figma.com/community/file/1311421011482282592) (CC-BY 4.0). 
-
-User interaction annotations were created using modified open source icons by [Jordan Stephensen](https://www.figma.com/@jws) and [Yogi Aprellianto](https://thenounproject.com/icon/puzzle-7950022/) (CC-BY 4.0).
+The GitHub Annotation Toolkit is a fork of the CVS Health Inclusive Design team’s [Web Accessibility Annotation Kit](https://www.figma.com/community/file/1311421011482282592) (CC-BY 4.0). User interaction annotations were created using modified open source icons by [Jordan Stephensen](https://www.figma.com/@jws) and [Yogi Aprellianto](https://thenounproject.com/icon/puzzle-7950022/) (CC-BY 4.0).
 
 
 ## License 
