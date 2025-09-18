@@ -83,7 +83,7 @@ Contains a data cell within a table.
 #### Table footer `<tfoot>`
 
 Groups rows concluding the table content. A table footer is optional, only use it if your content needs it.
-- **Sticky footer**: Indicates the table footer row sticks to the top of the viewport when scrolling.
+- **Sticky footer**: Indicates the table footer row sticks to the bottom of the viewport when scrolling.
 
 <img src="Images/table-foot-details.png" alt="A pair of table footer pin annotations and table footer details annotations. The note numbers are set to 8, and one details annotation sticky position is toggled OFF, and the other is toggled ON." width="679">
 
