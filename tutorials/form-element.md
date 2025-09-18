@@ -155,7 +155,7 @@ The Select Input Details has a number of specific properties:
 #### Range
 
 Range inputs are used to specify a number value on a scale. Typically, range inputs are rendered as a slider, with the user using the thumb element to select a value. Range has a number of specific properties:
-​- **value**: Sets the currently selected numeric value on the range input.
+- **value**: Sets the currently selected numeric value on the range input.
 - **min**: Specifies the minimum possible numeric value.
 - **max**: Specifies the maximum possible numeric value.
 
