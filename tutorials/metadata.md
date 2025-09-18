@@ -117,7 +117,7 @@ If a page title is not descriptive, many people, especially those relying on ass
 
 <img alt="A page title pin stamp and Figma properties panel. The note number has been set to 7, with the stamp label positioned to the left. " src="Images/title-pin-stamp.png" width="557">
 
-2. ​Place a **❖ Page Title Details** component in the margins next to the design and configure the component properties as needed:
+2. Place a **❖ Page Title Details** component in the margins next to the design and configure the component properties as needed:
 - **Show guidance:** Toggle high-level guidance and resources.
 - **Value:** Add the page title to the value input
 - **Note number:** Set this to match the corresponding **❖ Page Title Stamp**. This number should be unique and in relative sequence with other Details annotations on the same design.
