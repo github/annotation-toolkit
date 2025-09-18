@@ -160,7 +160,7 @@ Range inputs are used to specify a number value on a scale. Typically, range inp
 - **max**: Specifies the maximum possible numeric value.
 
 **Advanced Mode** can be toggled on to reveal additional rarely-used properties, some of which are unique to range input: 
-- **​step**: Specifies the configuration for values that can be selected between the minimum and maximum.
+- **step**: Specifies the configuration for values that can be selected between the minimum and maximum.
 - **Vertical?**: When enabled, this shows the `writing-mode` attribute which specifies that the range input should be rendered vertically, as opposed to horizontally (which is the default).
 - **description**
 - **Tick marks**: Set the `datalist` values and labels that should appear alongside the range input, as tick marks.
