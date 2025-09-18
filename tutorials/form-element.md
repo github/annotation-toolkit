@@ -78,7 +78,7 @@ Textarea Details has a number of specific properties:
 - **inputmode**
 
 **Advanced Mode** can be toggled on to reveal additional advanced input options:
-​- **cols**: Sets the visible width of the textarea element using the average character width.
+- **cols**: Sets the visible width of the textarea element using the average character width.
 - **rows**: Sets the number of visible text lines.
 - **description**
 - **disabled**
