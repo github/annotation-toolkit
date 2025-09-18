@@ -111,7 +111,7 @@ If a page title is not descriptive, many people, especially those relying on ass
 
 ### How to use these annotations
 
-1. ​Add a **❖ Page Title Stamp** component from the asset panel. Place the stamp over the design frame and resize to extend pin. Configure the component properties as needed:
+1. Add a **❖ Page Title Stamp** component from the asset panel. Place the stamp over the design frame and resize to extend pin. Configure the component properties as needed:
 - **Label position:** Set based on Stamp’s placement relative to the element being annotated.
 - **Note number:** Set this number in relative sequence with the other numbered Stamps placed over the same design.
 
