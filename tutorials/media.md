@@ -18,7 +18,7 @@ Images are static visual representations of something, be it concrete or abstrac
 
 ### Why?
 
-With the rise of social media and better graphic processing, images have become key part of the internet. It’s crucial that when building digital products, we ensure that everyone can access the same information.
+With the rise of social media and better graphic processing, images have become a key part of the internet. It’s crucial that when building digital products, we ensure that everyone can access the same information.
 
 Most images exist on the internet through the HTML semantic `<img>` or `<svg>`. Regardless of what path you choose, deciding whether or not an image needs **alternative text** (alt-text for short) is key to providing accessible content.
 
