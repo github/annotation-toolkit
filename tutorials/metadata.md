@@ -52,7 +52,7 @@ Determine how the language is chosen:
 
 #### **Scope** (Details)
 
-- **`​Page`** - Defines the default language for the entire webpage, typically via `<html lang="en-US">`. This setting is inherited by all content on the page unless overridden. 
+- **`Page`** - Defines the default language for the entire webpage, typically via `<html lang="en-US">`. This setting is inherited by all content on the page unless overridden. 
 - **`Section`** - Applies the language setting to part of a page such as a paragraph, div, or article. For example, using `lang="es"` on a container element will mark the contents as Spanish language.
 - **`Inline`** - Applies to a single word or short phrase, typically embedded within a sentence. This is commonly done by wrapping the word in a `<span>` element and adding the appropriate `lang` attribute to indicate its language. 
 
