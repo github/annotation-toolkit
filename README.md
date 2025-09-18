@@ -13,7 +13,7 @@ The GitHub Annotation Toolkit is a Figma asset library packed with components to
 
 ## Get the Annotation Toolkit
 - [Download the library from Figma Community](//#)
-- [Release Notes](changelog.md)
+- [Release Notes](/releases)
 
 
 ## What are annotations and why do we use them?
