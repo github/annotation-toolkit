@@ -158,7 +158,7 @@ If you don't have a designer on your project, or are not working with an accessi
 ## Additional Resources
 
 - [ ] **Run a scan on your code** 
-	- We recommend starting with free axe-tools, although beware that automated scans are NOT full-proof. A great example of this is [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
+	- We recommend starting with free axe-tools, although beware that automated scans are NOT fool-proof. A great example of this is [Building the most inaccessible site possible with a perfect Lighthouse score](https://www.matuzo.at/blog/building-the-most-inaccessible-site-possible-with-a-perfect-lighthouse-score/).
 - [ ] **Consider adding accessibility linters and actions to your CI/CD pipeline** 
 	- Adding accessibility tools into your code process is a great way to work on accessibility together.
 
