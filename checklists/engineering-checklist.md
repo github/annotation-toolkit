@@ -27,7 +27,7 @@ If you don't have a designer on your project, or are not working with an accessi
 - [ ] **Headings are used in a consecutive order** 
 	- Heading levels should be sequential. Don’t skip levels (i.e. `<h2>` to `<h4>`).
 	- Nested headings are encouraged and natural as content goes from more general to specific.
-	- In certain cases, headings may be visually hidden. Levels and visual styling may deviate from one another (i.e. giving an `<h2>` the same visual treatment of an `<h3>`). Please consult the a11y design team in this case.
+	- In certain cases, headings may be visually hidden. Levels and visual styling may deviate from one another (i.e. giving an `<h2>` the same visual treatment as an `<h3>`). Please consult the a11y design team in this case.
 - [ ] **Landmarks are used properly**
 	- Page has only one main section and one footer section.  
 	- Leave out landmark identifiers when giving a unique name. e.g., use "Repository" instead of "Repository navigation". This prevents redundancy in screen readers that already read out the navigation landmark.
