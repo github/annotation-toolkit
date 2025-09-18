@@ -35,7 +35,7 @@ The language code is a two letter ISO code such as `en` for English, or an exten
 #### **Type** (Stamp)
 
 Determine how the language is chosen:
-​- **Language code** - Default. The platform decides what language is displayed, using a two or four-letter ISO code added into the  Language code property. 
+​- **Language code** - Default. The platform decides what language is displayed, using a two or four-letter ISO code added into the Language code property. 
 - **`User-controlled`** - Language set by the user from a pre-defined list of localization options. Useful for annotating content localized through a language-picker.
 
 <img alt="A matching pair of annotation stamps. On the left side is a brown language Stamp with a note number set to 2, a globe icon, and a label of lang code EN. Below this is an exposed Figma component property for Type, which is set to Language Code. On the right side is a brown language Stamp with a note number set to 2, a globe icon, and a label of User Set Language. Below this is an exposed Figma component property for Type, which is set to User-controlled." src="Images/Lang-annotations.png" width="557">
