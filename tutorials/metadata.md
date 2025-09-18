@@ -68,7 +68,7 @@ Determine how the language is chosen:
 
 <img alt="A language pin stamp with a label positioned to the left and text that says lang code english US. The note number set to 5. To the right is a Figma properties panel showing the corresponding configured component properties." src="Images/Lang-stamp.png" width="557">
 
-2. ​Place a **❖ Language Details** component in the margins next to the design and configure the component properties as needed:
+2. Place a **❖ Language Details** component in the margins next to the design and configure the component properties as needed:
     - **Note number:** Set this to match the corresponding **❖ Language Stamp**. This number should be unique and in relative sequence with other Details annotations on the same design.
     - **Scope:** Set parameters for how much of a page a specific language annotation applies to the page level, a section, or a short string.
     - **Set by:** Determine how the language is chosen, whether hard-coded by the `platform`, based on `user preference`, or based on a `user agent` setting (avoid this). 
