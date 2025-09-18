@@ -82,7 +82,7 @@ Determine how the language is chosen:
 - Are there any additional languages used for certain sections/words throughout the page?
 
 ### Resources
-- [​GitHub Inclusive Language Docs (Internal only)](https://thehub.github.com/dib/inclusive-language/)
+- [GitHub Inclusive Language Docs (Internal only)](https://thehub.github.com/dib/inclusive-language/)
 - [Tips for Multilingual Accessibility - Ben Myers](https://benmyers.dev/blog/multilingual-web-accessibility/)
 - [On Language Learning for Screen Reader Users - Florian Beijers](https://florianbeijers.xyz/on-language-learning-with-a-screenreader)
 - [What they don’t tell you when you translate your app - Eric Bailey](https://ericwbailey.website/published/what-they-dont-tell-you-when-you-translate-your-app/)
