@@ -97,7 +97,7 @@ Defines a group of one or more columns for styling or structural purposes. This 
 #### Column `<col>`
 
 Represents a single column’s definition, used for styling or width control. This element is typically not needed, and its inclusion may interfere with some screen readers.
-- **Columns span**: Specifies the number of columns the grouping contains. Spanning starts on the first table column and extends the same number of columns as the span number used.
+- **Columns span**: Specifies the number of columns the column element spans. Spanning starts on the first table column and extends the same number of columns as the span number used.
 
 <img src="Images/table-col-details.png" alt="A table column pin annotation and a table column details annotation. The note numbers are set to 10, with the span set to 2. " width="679">
 
