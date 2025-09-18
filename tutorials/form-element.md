@@ -194,7 +194,7 @@ If additional information needs to be added to a Label, Hint, Legend, or any oth
 <img src="Images/input-figma-properties.png" alt="An input stamp annotation and a Figma properties panel. The note numbers have been set to 1 and the form element is an input." width="557">
 
 2. ​Place a **❖ Form Element Details** component in the margins next to the design and configure the component properties as needed:
-​- **Note number**: Set this to match the corresponding **❖ Form Element Stamp**. This number should be unique and in relative sequence with other Details annotations on the same design.
+- **Note number**: Set this to match the corresponding **❖ Form Element Stamp**. This number should be unique and in relative sequence with other Details annotations on the same design.
 - Set any relevant common form element properties, advanced mode properties, or unique element properties listed in the previous section.
 
 <img src="Images/text-input-details-properties.png" alt="A text input details annotation and a Figma properties panel. The note numbers have been set to 1 and the form element has been set to text input. The input is required, and has error validation with a message that reads Enter your name. The input’s autocomplete field is set to name with an input mode of text." width="557">
