@@ -60,7 +60,7 @@ Determine how the language is chosen:
 
 ### How to use these annotations
 
-1. ​Add a **❖ Language Stamp** component from the asset panel. Place the stamp over the design frame and resize to extend pin, bracket, or lasso. Configure the component properties as needed:
+1. Add a **❖ Language Stamp** component from the asset panel. Place the stamp over the design frame and resize to extend pin, bracket, or lasso. Configure the component properties as needed:
     - **Label position:** Set based on Stamp’s placement relative to the element being annotated.
     - **Type:** Select whether a specific `language code` is being used or if the content’s language is `user-controlled`.
     - **Show number:** Toggle off if there’s no need for a matching Details annotation (in which case, skip step 2).
