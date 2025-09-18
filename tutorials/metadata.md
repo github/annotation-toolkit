@@ -20,7 +20,7 @@ A primary language must be set in the pages metadata. Screen readers rely on the
 
 Additionally, any text written in a different language from the main page should be properly marked up in the HTML. This allows screen readers to accurately interpret and pronounce the content using the correct language settings.
 
-The language code is a two letter ISO code such as `en` for English, or an extended code such as `en-US` for US English or `en-GB` for British English. Only use the extended code when it create a meaningful difference, such as with varied Chinese dialects, Spanish, French (`fr`) vs French Canadian (`fr-CA`), etc. 
+The language code is a two letter ISO code such as `en` for English, or an extended code such as `en-US` for US English or `en-GB` for British English. Only use the extended code when it creates a meaningful difference, such as with varied Chinese dialects, Spanish, French (`fr`) vs French Canadian (`fr-CA`), etc. 
 
 **Remember:**
 
