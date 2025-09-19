@@ -13,7 +13,7 @@ When our team did an analysis of GitHub's issues in May 2024, we found that **48
 
 Both of these things are great and true, but they also gloss over a lot of nuance, so let's zoom out and look at benefits from a higher level.
 
-![](https://github.com/user-attachments/assets/e4b0af23-a0f1-4d67-ad2f-da4dbf4dcf96)
+![How GitHub benefits](../.images/annotation-theory-1.png)
 
 ### How GitHub benefits
 The organization as a whole sees a number of benefits when we use the annotation toolkit as a tool for closer collaboration. 
@@ -25,7 +25,7 @@ The organization as a whole sees a number of benefits when we use the annotation
 
 ---
 
-![](https://github.com/user-attachments/assets/3e2dacb2-7691-41a6-bfe9-395fa15f63f0)
+![How our users benefit](../.images/annotation-theory-2.png)
 
 ### How our Users benefit
 We’re making things for people to use both inside of GitHub and outside.
@@ -37,7 +37,7 @@ We’re making things for people to use both inside of GitHub and outside.
 
 ---
 
-![](https://github.com/user-attachments/assets/ea0e2a3d-4737-40d2-8786-9a05e1afe02e)
+![How our designers benefit](../.images/annotation-theory-3.png)
 
 ### How our Designers benefit
 There are personal benefits for us as designers as well. 
@@ -49,7 +49,7 @@ There are personal benefits for us as designers as well.
 
 ---
 
-![](https://github.com/user-attachments/assets/febdfa59-e59d-4034-b2c2-7d3809e5a6d4)
+![What even are annotations?](../.images/annotation-theory-4.jpg)
 
 ## What even are annotations?
 > Annotations help capture design intent that cannot be conveyed through visuals or component properties alone.
@@ -62,7 +62,7 @@ They also aren't a **source of truth**, because they're often just a moment in t
 
 ---
 
-![](https://github.com/user-attachments/assets/56d7d14b-1e75-426d-9536-b6418bb0818f)
+![There are some myths that need busting](../.images/annotation-theory-5.jpg)
 
 ## Do we really need to annotate our designs?
 There are some common misconceptions to adopting annotations as a practice, but they're not the barriers they appear to be.
