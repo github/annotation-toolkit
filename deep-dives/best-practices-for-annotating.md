@@ -52,7 +52,7 @@ To deep-link a Stamp label with its corresponding label:
 
 | **First copy the detail instance URL** |
 |--|
-| <img alt="A process flow with three steps. Step one shows a detail instance in a selected state. Step two shows a Command plus L keyboard shortcut combination. Step three shows a badge that reads, Page link copied to clipboard." src="../.images/best-practice-3-figure2.png" /> |
+| <img alt="A process flow with three steps. Step one shows a detail instance in a selected state. Step two shows a Command plus L keyboard shortcut combination. Step three shows a badge that reads, Page link copied to clipboard." src="../.images/best-practice-3-figure1.png" /> |
 
 | **Then create a link to the detail instance** |
 |--|
