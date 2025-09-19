@@ -13,7 +13,7 @@ Use the **Label position** component property to change the orientation of the l
 
 | Step 1 | Step 2 |
 | :--- | :--- |
-| <img alt="Selecting components from the Annotation Toolkit in Figma's asset library panel, with a GitHub.com homepage design on the canvas." src="https://github.com/user-attachments/assets/d51d9e73-eb88-442d-bcbe-44329483c99f"> | <img alt="With Link stamps on the canvas, the Figma component properties panel shows options for Stamp position, Note number, and whether or not to show that or the stamp pin." src="https://github.com/user-attachments/assets/01b4f6de-de70-4cc8-9e9a-4232742cf13b"> |
+| <img alt="Selecting components from the Annotation Toolkit in Figma's asset library panel, with a GitHub.com homepage design on the canvas." src="../.images/getting-started-step-1-figure-1.png"> | <img alt="With Link stamps on the canvas, the Figma component properties panel shows options for Stamp position, Note number, and whether or not to show that or the stamp pin." src="../.images/getting-started-step-1-figure-2.png"> |
 | Find the Annotation Toolkit components in the Figma asset panel. | Add Stamps to the canvas, setting their size and Label position. |
 
 > [!TIP]  
@@ -31,7 +31,7 @@ In this example, some Stamps don’t need a matching Details annotation. Because
 
 | Step 1 | Step 2 |
 | :--- | :--- |
-| <img alt="Selecting components from the Annotation Toolkit in Figma's asset library panel, with a GitHub.com homepage design on the canvas." src="https://github.com/user-attachments/assets/79c6b2f7-08ab-4479-9f2f-3b3b1258fd80"> | <img alt="With Link stamps on the canvas, the Figma component properties panel shows options for Stamp position, Note number, and whether or not to show that or the stamp pin." src="https://github.com/user-attachments/assets/dcb01ea9-ed43-4b19-9afb-ee38e160fbdc"> |
+| <img alt="Selecting components from the Annotation Toolkit in Figma's asset library panel, with a GitHub.com homepage design on the canvas." src="../.images/getting-started-step-2-figure-1.png"> | <img alt="With Link stamps on the canvas, the Figma component properties panel shows options for Stamp position, Note number, and whether or not to show that or the stamp pin." src="../.images/getting-started-step-2-figure-2.png"> |
 | Add Details components in the margins around the design frame. | Use the Note number property to pair Stamps and Details together. |
 
 > [!NOTE]  
@@ -47,7 +47,7 @@ Make sure to investigate the component properties of each annotation type you us
 
 | Step 1 | Step 2 |
 | :--- | :--- |
-| <img alt="Configuring the top Details annotation for the design's mobile menu button. The Figma component properties panel shows options for Note number, Title, a toggle for submitting a form, Accessible name (optional), description (optional), additional details (optional), code snippet (optional), and links to docs (optional)." src="https://github.com/user-attachments/assets/32f52ed0-1e1b-4438-aea4-7f0033575eed"> | <img alt="All three details annotations are now configured." src="https://github.com/user-attachments/assets/5374959f-b4cd-439a-b775-f7639c679273"> |
+| <img alt="Configuring the top Details annotation for the design's mobile menu button. The Figma component properties panel shows options for Note number, Title, a toggle for submitting a form, Accessible name (optional), description (optional), additional details (optional), code snippet (optional), and links to docs (optional)." src="../.images/getting-started-step-3-figure-1.png"> | <img alt="All three details annotations are now configured." src="../.images/getting-started-step-3-figure-2.png"> |
 | Add design intent to the Details via the properties panel. | All buttons and links on this frame have been annotated! 🎉 |
 
 ## How the annotation components work
@@ -62,13 +62,13 @@ Pin Stamps highlight one specific element in a design.
 
 The pin can be toggled off with the “**Show pin**” property, leaving just the label.
 
-<img width="745" alt="A green stamp, with a label that reads, '1. Image' with a representative icon prepending the label. A dotted line that ends in a small dot extends from the right of the stamp. The '1' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The dotted line extending from the right is identified as, 'pin'." src="https://github.com/user-attachments/assets/724a31ae-a33c-449e-a803-e98eeb2c5ab8">
+<img width="745" alt="A green stamp, with a label that reads, '1. Image' with a representative icon prepending the label. A dotted line that ends in a small dot extends from the right of the stamp. The '1' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The dotted line extending from the right is identified as, 'pin'." src="../.images/getting-started-formats-pin.png">
 
 #### Bracket stamps
 
 Bracket Stamps are useful for highlighting sections of a page and elements without clear boundaries. 
 
-<img width="745" alt="A blue stamp, with a label that reads, '2. Link' with a representative icon prepending the label. A solid line that ends in two forked tines extends from the right of the stamp. The '2' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The solid line and tines extending from the right is identified as, 'bracket'." src="https://github.com/user-attachments/assets/f10c3d9c-45e5-44c0-a9f0-d0269556afbf">
+<img width="745" alt="A blue stamp, with a label that reads, '2. Link' with a representative icon prepending the label. A solid line that ends in two forked tines extends from the right of the stamp. The '2' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The solid line and tines extending from the right is identified as, 'bracket'." src="../.images/getting-started-formats-bracket.png">
 
 #### Lasso stamps
 
@@ -76,7 +76,7 @@ Lasso Stamps are useful for highlighting groups of elements, sections of a page,
 
 There are more “**Label position**” options for Lasso Stamps compared to Pin and Bracket stamps. This is to help reduce overlap.
 
-<img width="745" alt="A pink stamp, with a label that reads, '3. header' with a representative icon prepending the label. A dotted line that ends in a rectangular region extends from the right of the stamp. The '3' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The dotted line and rectangular region extending from the right is identified as, 'lasso'." src="https://github.com/user-attachments/assets/ab512d13-c550-4e5d-8433-bda455eef99d">
+<img width="745" alt="A pink stamp, with a label that reads, '3. header' with a representative icon prepending the label. A dotted line that ends in a rectangular region extends from the right of the stamp. The '3' portion of the label is identified as, 'note number'. The icon and label is identified as, 'icon and label'. The dotted line and rectangular region extending from the right is identified as, 'lasso'." src="../.images/getting-started-formats-lasso.png">
 
 ### Note numbers may not appear by default
 
@@ -84,7 +84,7 @@ Stamps for `Focus order`, `Arrow stops`, or `Reading order` have an **Order #** 
 
 These annotations typically do not need additional info. However, you can pair a Details component with these annotations if you need to. This is done by toggling the **Has note** property to reveal the **Note number** field.
 
-<img alt="Three panels demonstrating a process flow. The first panel has a title that reads, ‘Ordering Pin Stamp’. It shows a focus order Stamp. Below it is a switch toggle with a label that reads ‘Has note’, and it is set to an off position. The second panel also has a title that reads, ‘Ordering Pin Stamp’. It shows a focus order Stamp with a note indicator added to it. Below it is a switch toggle with a label that reads ‘Has note’, and it is set to an on position. The third panel is titled,  ‘Ordering details’. it shows a Focus order Details annotation, with a note number that corresponds to the pin stamp in the previous panel. An arrow also extends from the note indicator in the second panel to the note number on the Details stamp in the third panel." src="https://github.com/user-attachments/assets/5e31f1bb-4541-421f-97da-13b37b7c9bad">
+<img alt="Three panels demonstrating a process flow. The first panel has a title that reads, ‘Ordering Pin Stamp’. It shows a focus order Stamp. Below it is a switch toggle with a label that reads ‘Has note’, and it is set to an off position. The second panel also has a title that reads, ‘Ordering Pin Stamp’. It shows a focus order Stamp with a note indicator added to it. Below it is a switch toggle with a label that reads ‘Has note’, and it is set to an on position. The third panel is titled,  ‘Ordering details’. it shows a Focus order Details annotation, with a note number that corresponds to the pin stamp in the previous panel. An arrow also extends from the note indicator in the second panel to the note number on the Details stamp in the third panel." src="../.images/getting-started-note-number.png">
 
 ### Many Stamps may have label variants
 
@@ -92,7 +92,7 @@ Annotations such as Note, Heading, Landmark, List, Form Element, Table, Media an
 
 | Add Stamp | Edit properties |
 | :--- | :--- |
-| <img alt="A landmark stamp set to show the header HTML element should be used. Next to it is Figma’s component property panel, which displays options for the landmark stamp. It has been configured to have the label position be on the left, to show a pin, and to show the number 3 as its note number." src="https://github.com/user-attachments/assets/7a19b267-3cc2-4995-b76b-fde03abe57ff"> | <img alt="A form element stamp (with a label of Input), a primer a11y preset stamp, and a landmark stamp sit to the left of a screenshot of Figma's properties panel. In the panel is an element dropdown that allows the stamp label to be changed. On the right are additional options for what the form element label could be." src="https://github.com/user-attachments/assets/d2edc964-78f5-4c9d-98ea-87407687c683"> |
+| <img alt="A landmark stamp set to show the header HTML element should be used. Next to it is Figma’s component property panel, which displays options for the landmark stamp. It has been configured to have the label position be on the left, to show a pin, and to show the number 3 as its note number." src="../.images/getting-started-stamp-variants-1.png"> | <img alt="A form element stamp (with a label of Input), a primer a11y preset stamp, and a landmark stamp sit to the left of a screenshot of Figma's properties panel. In the panel is an element dropdown that allows the stamp label to be changed. On the right are additional options for what the form element label could be." src="../.images/getting-started-stamp-variants-2.png"> |
 
 ### Details annotations can be extensively customized
 
@@ -110,4 +110,4 @@ Enabling the **Add more info...** property on any Details annotation will reveal
 
 Some Details annotations also support indicating what keyboard shortcuts should be honored.
 
-<img width="745" alt="A filled in Form element Details annotation for an Email input, with labels around the annotation to highlight its anatomy and various options. To the right of this is a screenshot of the Figma properties panel, where all of these can be configured." src="https://github.com/user-attachments/assets/302edd46-c198-4098-86f8-93c4dacd0718">
+<img width="745" alt="A filled in Form element Details annotation for an Email input, with labels around the annotation to highlight its anatomy and various options. To the right of this is a screenshot of the Figma properties panel, where all of these can be configured." src="../.images/getting-started-details-anatomy.png">
