@@ -150,7 +150,7 @@ Specialized device settings should be used sparingly as they can pose accessibil
 #### Advanced
 
 Advanced device settings are inaccessible and should be avoided unless absolutely essential. Provide accessible alternatives if they must be used.
-- No assumptions should be made about the **orientation** of a device. Some users may have their device locked in a horzontal orientation (landscape), and therefore, any functionality that is limited to landscape/horizontal setting cannot be assumed accessible to everyone, or vice versa. 
+- No assumptions should be made about the **orientation** of a device. Some users may have their device locked in a horizontal orientation (landscape), and therefore, any functionality that is limited to landscape/horizontal setting cannot be assumed accessible to everyone, or vice versa. 
 - **Shake device** should be avoided as it may not be possible for a user to shake their device as an input. 
 
 
