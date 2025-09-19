@@ -54,7 +54,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
   - Visually hidden heading
   - CSS only styling
 
-<img width="537" alt="Annotations helpful with hierarchy: nine different landmarks as well as six visible heading levels, a visually hidden heading, and css-only heading style" src="https://github.com/user-attachments/assets/73bbb9d0-2d2e-4e85-a9a9-da2d6c0b0825" />
+<img width="537" alt="Annotations helpful with hierarchy: nine different landmarks as well as six visible heading levels, a visually hidden heading, and css-only heading style" src="../.images/checklist-hierarchy.png" />
 
 
 ### Suggested Tools
@@ -87,7 +87,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - [Page Title (Metadata)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=773-34151)
 - [Language (Metadata)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=773-34151)
 
-<img width="254" alt="Annotations helpful with content: page title and language code" src="https://github.com/user-attachments/assets/642b4564-0e7f-4f77-89c5-c097be01aa75" />
+<img width="254" alt="Annotations helpful with content: page title and language code" src="../.images/checklist-content.png" />
 
 ### Suggested Tools
 
@@ -113,7 +113,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - [Video (Media)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-664)
 - [Audio (Media)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-664)
 
-<img width="386" alt="Annotation stamp for image, decorative image, video, and audio in various shades of bold green." src="https://github.com/user-attachments/assets/d11803e4-478e-4325-88aa-da1500c6b633" />
+<img width="386" alt="Annotation stamp for image, decorative image, video, and audio in various shades of bold green." src="../.images/checklist-graphics.png" />
 
 ### Exercises
 
@@ -146,7 +146,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - [Button](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-666)
 - [Link](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-665)
   
-<img alt="Annotation stamp for link and button, which are dark blue and lime in color." src="https://github.com/user-attachments/assets/7244cf9e-5610-4929-aa65-35851ba96664" width="272">
+<img alt="Annotation stamp for link and button, which are dark blue and lime in color." src="../.images/checklist-interactivity.png" width="272">
 
 
 ### Resources
@@ -172,7 +172,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - Label, Input, etc. ([Form Element](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=314-2896))
 - `<form>` [Landmark](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-668)
 
-<img width="828" alt="Annotation stamp for basic html form elements including a form landmark, input, label, checkbox, radio, textarea, select, legend, fieldset, and hint. All have an indigo hue while the form landmark is pink." src="https://github.com/user-attachments/assets/a535fea1-b8fa-4b66-8738-09bc48352d82" />
+<img width="828" alt="Annotation stamp for basic html form elements including a form landmark, input, label, checkbox, radio, textarea, select, legend, fieldset, and hint. All have an indigo hue while the form landmark is pink." src="../.images/checklist-forms.png" />
 
 ### Resources
 
@@ -196,7 +196,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - [Table](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=4865-3128)
 - [List](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=3065-1930)
 
-<img width="521" alt="Annotation stamps showing semantic names for and all types of list and table elements. Lists are a dark indigo color while Table elements are maroon. All have different icons for each type of element." src="https://github.com/user-attachments/assets/8f8f198e-8ce8-40e1-b75d-05a65838e981" />
+<img width="521" alt="Annotation stamps showing semantic names for and all types of list and table elements. Lists are a dark indigo color while Table elements are maroon. All have different icons for each type of element." src="../.images/checklist-layout.png" />
 
 ---
 
@@ -214,7 +214,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - Arrow Stop ([Ordering](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-667))
 - Keyboard Shortcut ([User Interactions](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=776-36162))
 
-<img width="662" alt="Annotations that can help with keyboard: focus or tab order, arrow stop, and keyboard shortcut" src="https://github.com/user-attachments/assets/c4335fad-a705-4f73-be49-7776da17e89e" />
+<img width="662" alt="Annotations that can help with keyboard: focus or tab order, arrow stop, and keyboard shortcut" src="../.images/checklist-keyboard.png" />
 
 ---
 
