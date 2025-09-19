@@ -15,7 +15,7 @@ Design annotations can transform our work for the better, but they don't do this
 
 This list may seem idealistic, but we have teams here who already operate like well oiled machines. The Brand team, for instance, deals with a lot of outside pressure and adopted these practices out of necessity. The results, however, speak for themselves.
 
-![Best practices for avoiding hand-off friction: 1. Include others early - Invite engineers to meetings. Early pairing & collaboration makes all the difference. 2. Annotate strategically - Plan for the effort, start with your wireframes, and update as things change. 3. Plan a hand-off meeting - Go through annotated designs with your product and engineering partners. 4. Follow-through and QA - Our work doesn’t end at the hand-off. Plan ahead of time to double-check designs.](https://github.com/user-attachments/assets/b7b24cf7-e334-46ab-8135-adbdefa8c476)
+![Best practices for avoiding hand-off friction: 1. Include others early - Invite engineers to meetings. Early pairing & collaboration makes all the difference. 2. Annotate strategically - Plan for the effort, start with your wireframes, and update as things change. 3. Plan a hand-off meeting - Go through annotated designs with your product and engineering partners. 4. Follow-through and QA - Our work doesn’t end at the hand-off. Plan ahead of time to double-check designs.](../.images/handoff-1.png)
 
 ---
 
@@ -49,7 +49,7 @@ There are lots of ways that our plans, processes, and the quality of our work ca
 > 
 > Katie and Lukas from Design Infrastructure also have [some great lessons from LGTM 2024](https://www.youtube.com/watch?v=LN6dGGBfDYs) about how to collaborate when your workdays don't overlap at all.
 > 
-> [![Watch the video](https://github.com/user-attachments/assets/bf7b910a-30b4-4e08-b634-f7ef216045b4)](https://www.youtube.com/watch?v=LN6dGGBfDYs)
+> [![Watch the video](../.images/handoff-2.png)](https://www.youtube.com/watch?v=LN6dGGBfDYs)
 
 </details>
 <details><summary><strong>There's not enough enough time to annotate designs before they need to be delivered</strong></summary>
