@@ -31,7 +31,7 @@ In this example, we have split one fully annotated design into two, with Focus O
 
 | **Before** | **After** |
 |--|--|
-| <img alt="GitHub’s 2025 Universe homepage on mobile in portrait orientation. There are annotation stamps for links, buttons, images, focus order, and headings. All combined, it appears a bit like someone sneezed a lot of confetti on top of a design frame." src="../.images/best-practice-3-figure1.png" /> | <img alt="The same design, duplicated into two frames. The frame on the right has all of the focus order annotation stamps, while the frame on the left has everything else." src="../.images/best-practice-3-figure2.png" /> |
+| <img alt="GitHub’s 2025 Universe homepage on mobile in portrait orientation. There are annotation stamps for links, buttons, images, focus order, and headings. All combined, it appears a bit like someone sneezed a lot of confetti on top of a design frame." src="../.images/best-practice-2-figure1.png" /> | <img alt="The same design, duplicated into two frames. The frame on the right has all of the focus order annotation stamps, while the frame on the left has everything else." src="../.images/best-practice-2-figure2.png" /> |
 
 ---
 
