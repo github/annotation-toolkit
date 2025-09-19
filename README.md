@@ -7,7 +7,7 @@ The GitHub Annotation Toolkit is a Figma asset library packed with components to
 > **Tell us what you think!** We would love your feedback and [contributions](./CONTRIBUTING.md) to help improve the Annotation Toolkit, including any examples of how you’ve used or customized this library. Just open an [issue](https://github.com/github/annotation-toolkit/issues) in this repository. GitHub staff can reach out via Slack.
 
 
-<img width="3840" height="2160" alt="Figma library cover for the GitHub Annotation Toolkit with a grid background that looks like a starry night sky. There's an armada of little annotation stamp labels covering the bottom two thirds of the image, all at an angle. There's a series of angled git lines above them. Both look like they're launching from the ground and through into the sky grid." src="https://github.com/user-attachments/assets/bb2d0901-54e8-4693-b741-8bcbc4600b87" />
+<img width="3840" height="2160" alt="Figma library cover for the GitHub Annotation Toolkit with a grid background that looks like a starry night sky. There's an armada of little annotation stamp labels covering the bottom two thirds of the image, all at an angle. There's a series of angled git lines above them. Both look like they're launching from the ground and through into the sky grid." src=".images/File-Cover.png" />
 
 <!-- add link to the Figma Community file here -->
 
@@ -42,11 +42,11 @@ If not already available in your list of libraries, Publish and enable from the 
 
 Find the "Annotation Toolkit" library in the Figma Asset panel. This is enabled by default for all internal GitHub design files. For older files, you enable the library by following [these instructions](https://accessibility-playbook.github.com/enabling-a11y-design-toolkit-library-in-figma).
 
-| <img width="642" height="254" alt="The Manage Libraries dialog in Figma, showing the Annotation Toolkit listed under Team Libraries" src="https://github.com/user-attachments/assets/b62c2650-0b2a-4635-9da6-61ce58a41cf5" /> |
+| <img width="642" height="254" alt="The Manage Libraries dialog in Figma, showing the Annotation Toolkit listed under Team Libraries" src=".images/Readme-publish-library-1.png" /> |
 |--------|
 | Publish to your Figma instance and add to your file. |
 
-| <img width="642" height="277" alt="The Manage Libraries dialog in Figma, showing several sets of components from the Annotation Toolkit" src="https://github.com/user-attachments/assets/1b68f3b9-a2a7-406f-b834-03df635f4092" /> | 
+| <img width="642" height="277" alt="The Manage Libraries dialog in Figma, showing several sets of components from the Annotation Toolkit" src=".images/Readme-publish-library-2.png" /> | 
 |--------|
 | The Annotation Toolkit is now available to use in your work! |
 
