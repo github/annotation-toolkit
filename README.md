@@ -125,6 +125,7 @@ Special thanks to the following legends for their early feedback and help improv
 - [Demelza Feltham](https://github.com/DemelzaFeltham)
 - [Julian Kittelson-Aldred](https://github.com/julianmka/)
 - [Devin Owsley](https://www.linkedin.com/in/devin-owsleyaquilia/)
+- [Jasmine Friedrich](https://www.linkedin.com/in/jasmine-friedrich/)
 - [Daniel Henderson-Ede](https://github.com/danhendersonede)
 - [Kevin Oliveira](https://www.linkedin.com/in/kevin-s-oliveira/)
 
