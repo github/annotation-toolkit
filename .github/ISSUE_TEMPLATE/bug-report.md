@@ -1,3 +1,4 @@
+---
 name: Annotation toolkit bug report
 about: Is something not working as expected on the annotation toolkit? Let us know!
 title: "[Bug] "
@@ -36,3 +37,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+---

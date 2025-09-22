@@ -1,3 +1,4 @@
+---
 name: Annotation toolkit feature request
 about: Request an addition to the annotation toolkit.
 title: "[Feature request] "
@@ -36,3 +37,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+---

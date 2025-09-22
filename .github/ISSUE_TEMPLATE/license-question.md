@@ -1,3 +1,4 @@
+---
 name: License question
 about: Have a question about our open source license?
 title: "[License] "
@@ -29,3 +30,4 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
+---
