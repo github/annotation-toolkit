@@ -71,7 +71,7 @@ Text marked as a **Heading** will help users understand the purpose of a section
 **Titles** are announced after transitioning to a view and are typically in the [top app bar](https://m3.material.io/components/app-bars/overview) or [toolbar](https://developer.apple.com/design/human-interface-guidelines/toolbars) with other elements such as the back button. They are similar to `<h1>` headings on web experiences, helping users orient and understand the purpose of the content.
 
 > [!CAUTION]
-> Headings are optional and it’s common for views to not have either one. Only use headings when they truly help illuminate the structure of a screen.
+> Headings are optional and it’s common for views to not have them. Only use headings when they truly help illuminate the structure of a screen.
 
 <img src="Images/mobile-stamp-annotations.png" alt="Two annotations: one is a dark cyan mobile pin stamp with a label of Heading. The second is a dark cyan mobile bracket stamp with a label of Title." width="679">
 
