@@ -12,7 +12,7 @@ The GitHub Annotation Toolkit is a Figma asset library packed with components to
 <!-- add link to the Figma Community file here -->
 
 ## Get the Annotation Toolkit
-- [Download the library from Figma Community](//#)
+- [Download the library from Figma Community](https://gh.io/annotation-toolkit-figma)
 - [Release Notes](https://github.com/github/annotation-toolkit/releases)
 
 
