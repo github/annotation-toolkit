@@ -40,7 +40,7 @@ The components in this library support web as well as mobile (iOS and Android) p
 ### How to use the Annotation Toolkit library in your design files
 If not already available in your list of libraries, Publish and enable from the Assets tab. 
 
-Find the "Annotation Toolkit" library in the Figma Asset panel. This is enabled by default for all internal GitHub design files. For older files, you enable the library by following [these instructions](https://accessibility-playbook.github.com/enabling-a11y-design-toolkit-library-in-figma).
+For GitHub staff, the "Annotation Toolkit" is enabled in the Figma Asset  panel by default. For older files, GitHub staff can enable the library by following [these instructions (Internal only)](https://accessibility-playbook.github.com/enabling-a11y-design-toolkit-library-in-figma).
 
 | <img width="642" height="254" alt="The Manage Libraries dialog in Figma, showing the Annotation Toolkit listed under Team Libraries" src=".images/Readme-publish-library-1.png" /> |
 |--------|
