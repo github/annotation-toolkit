@@ -121,12 +121,13 @@ The Accessibility Design team is here to help! GitHub colleagues have multiple w
 ## Contributors
 Special thanks to the following legends for their early feedback and help improving this library.
 - [Chelsea Adelman](https://www.linkedin.com/in/chelsea-adelman/)
-- [Joe Lamyman](https://github.com/joelamyman)
-- [Demelza Feltham](https://github.com/DemelzaFeltham)
-- [Julian Kittelson-Aldred](https://github.com/julianmka/)
+- [Joe Lamyman](https://www.linkedin.com/in/joelamyman/)
+- [Demelza Feltham](https://www.linkedin.com/in/demelza-feltham-76bb9594/)
+- [Julian Kittelson-Aldred](https://www.linkedin.com/in/julianmka/)
 - [Devin Owsley](https://www.linkedin.com/in/devin-owsleyaquilia/)
+- [David Cox](https://www.linkedin.com/in/dav-idcox/)
 - [Jasmine Friedrich](https://www.linkedin.com/in/jasmine-friedrich/)
-- [Daniel Henderson-Ede](https://github.com/danhendersonede)
+- [Daniel Henderson-Ede](https://www.linkedin.com/in/danhendersonede/)
 - [Kevin Oliveira](https://www.linkedin.com/in/kevin-s-oliveira/)
 
 
