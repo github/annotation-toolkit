@@ -103,7 +103,7 @@ For GitHub staff, the "Annotation Toolkit" is enabled in the Figma Asset  panel 
 This project uses GitHub issues to track bugs and feature requests. Please search the existing issues before filing new issues to avoid duplicates. To get help, submit bugs, ask questions, or make feature requests, create an [Issue](https://github.com/github/annotation-toolkit/issues) in this repository. The Annotation Toolkit is under active development and maintained by GitHub staff. We will do our best to respond to support, feature requests, and community questions in a timely manner.
 
 > [!NOTE]
-> ### Internal Support options for GitHub staff
+> ### Support for GitHub staff (Internal only)
 > 
 > - React to any Slack message with the emoji: `:a11y-design-i-would-like-help-with-this:`
 > - Message us in the **#accessibility-design** or **#annotation-toolkit** Slack channels
