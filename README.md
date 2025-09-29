@@ -34,6 +34,8 @@ They can also be used in early design explorations or wireframes to validate fun
 
 A paid Figma plan is recommended in order to use the components as an asset library. 
 
+This library file uses the [Mona Sans](https://github.com/mona-sans) and [San Francisco](https://developer.apple.com/fonts/) font families. 
+
 The components in this library support web as well as mobile (iOS and Android) platforms.
 
 
