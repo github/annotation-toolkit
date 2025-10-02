@@ -94,6 +94,7 @@ For GitHub staff, the "Annotation Toolkit" is enabled in the Figma Asset  panel 
 
 ### Further reading
 - [Accessibility annotation kits only annotate](https://ericwbailey.website/published/accessibility-annotation-kits-only-annotate/) by [@ericwbailey](https://github.com/ericwbailey)
+- ​[Annotating Designs using Common Language](https://tetralogical.com/blog/2025/09/23/annotating-designs-using-common-language/) by Craig Abbott
 - [How we’re building more inclusive and accessible components at GitHub](https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/) by [@ericwbailey](https://github.com/ericwbailey)
 - [Auditing Design Systems for Accessibility](https://www.deque.com/blog/auditing-design-systems-for-accessibility/) by Anna E. Cook
 - [The value of accessibility annotations in inclusive design](https://tangible.is/en/thinking/2024/10/the-value-of-accessibility-annotations-in-inclusive-design) by Antonio Matera
