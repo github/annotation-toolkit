@@ -48,8 +48,8 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 - Write out your heading structure without content, as shown in [Priority Guides - A List Apart](https://alistapart.com/article/priority-guides-a-content-first-alternative-to-wireframes/).
 
 ### Annotations that can help
-- [Landmark](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-668)
-- [Heading](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-660)
+- [Landmark](https://gh.io/annotation-tutorial-landmark)
+- [Heading](https://gh.io/annotation-tutorial-heading)
   - Semantic heading
   - Visually hidden heading
   - CSS only styling
@@ -84,8 +84,8 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- [Page Title (Metadata)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=773-34151)
-- [Language (Metadata)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=773-34151)
+- [Page Title (Metadata)](https://gh.io/annotation-tutorial-metadata#page-title)
+- [Language (Metadata)](https://gh.io/annotation-tutorial-metadata#language)
 
 <img width="254" alt="Annotations helpful with content: page title and language code" src="../.images/checklist-content.png" />
 
@@ -109,9 +109,9 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 	- Allowing users to control moving content prevents disorientation and motion sickness, which helps those with cognitive, reading, or vestibular disorders.
 
 ### Annotations that can help
-- Functional Image and Decorative Image ([Media](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-664))
-- [Video (Media)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-664)
-- [Audio (Media)](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-664)
+- [Image (Media)](https://gh.io/annotation-tutorial-media#image)
+- [Video (Media)](https://gh.io/annotation-tutorial-media#video)
+- [Audio (Media)](https://gh.io/annotation-tutorial-media#audio)
 
 <img width="386" alt="Annotation stamp for image, decorative image, video, and audio in various shades of bold green." src="../.images/checklist-graphics.png" />
 
@@ -143,8 +143,8 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- [Button](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-666)
-- [Link](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-665)
+- [Button](https://gh.io/annotation-tutorial-button)
+- [Link](https://gh.io/annotation-tutorial-link)
   
 <img alt="Annotation stamp for link and button, which are dark blue and lime in color." src="../.images/checklist-interactivity.png" width="272">
 
@@ -169,8 +169,8 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- Label, Input, etc. ([Form Element](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=314-2896))
-- `<form>` [Landmark](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-668)
+- Label, Input, etc. ([Form Element](https://gh.io/annotation-tutorial-form-element)
+- `<form>` [Landmark](https://gh.io/annotation-tutorial-landmark#form)
 
 <img width="828" alt="Annotation stamp for basic html form elements including a form landmark, input, label, checkbox, radio, textarea, select, legend, fieldset, and hint. All have an indigo hue while the form landmark is pink." src="../.images/checklist-forms.png" />
 
@@ -193,8 +193,8 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- [Table](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=4865-3128)
-- [List](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=3065-1930)
+- [Table](https://gh.io/annotation-tutorial-table)
+- [List](https://gh.io/annotation-tutorial-list)
 
 <img width="521" alt="Annotation stamps showing semantic names for and all types of list and table elements. Lists are a dark indigo color while Table elements are maroon. All have different icons for each type of element." src="../.images/checklist-layout.png" />
 
@@ -210,9 +210,9 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- Focus Order ([Ordering](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-667))
-- Arrow Stop ([Ordering](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=2-667))
-- Keyboard Shortcut ([User Interactions](https://www.figma.com/design/QD6wUrqRBpGZ0HDg97mq9J/Annotation-Toolkit?node-id=776-36162))
+- Focus Order ([Ordering](https://gh.io/annotation-tutorial-ordering)
+- Arrow Stop ([Ordering](https://gh.io/annotation-tutorial-ordering)
+- Keyboard Shortcut ([User Interactions](https://gh.io/annotation-tutorial-user-interactions)
 
 <img width="662" alt="Annotations that can help with keyboard: focus or tab order, arrow stop, and keyboard shortcut" src="../.images/checklist-keyboard.png" />
 
