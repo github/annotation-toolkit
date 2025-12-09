@@ -169,7 +169,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- Label, Input, etc. ([Form Element](https://gh.io/annotation-tutorial-form-element)
+- Label, Input, etc. ([Form Element](https://gh.io/annotation-tutorial-form-element))
 - `<form>` [Landmark](https://gh.io/annotation-tutorial-landmark#form)
 
 <img width="828" alt="Annotation stamp for basic html form elements including a form landmark, input, label, checkbox, radio, textarea, select, legend, fieldset, and hint. All have an indigo hue while the form landmark is pink." src="../.images/checklist-forms.png" />
@@ -210,9 +210,9 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Annotations that can help
 
-- Focus Order ([Ordering](https://gh.io/annotation-tutorial-ordering)
-- Arrow Stop ([Ordering](https://gh.io/annotation-tutorial-ordering)
-- Keyboard Shortcut ([User Interactions](https://gh.io/annotation-tutorial-user-interactions)
+- Focus Order ([Ordering](https://gh.io/annotation-tutorial-ordering))
+- Arrow Stop ([Ordering](https://gh.io/annotation-tutorial-ordering))
+- Keyboard Shortcut ([User Interactions](https://gh.io/annotation-tutorial-user-interactions))
 
 <img width="662" alt="Annotations that can help with keyboard: focus or tab order, arrow stop, and keyboard shortcut" src="../.images/checklist-keyboard.png" />
 
