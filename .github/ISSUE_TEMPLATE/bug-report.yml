@@ -1,25 +1,24 @@
----
-name: Annotation toolkit feature request
-about: Request an addition to the annotation toolkit.
-title: "[Feature request] "
-labels: ["feature request", "toolkit"]
+name: Annotation toolkit bug report
+about: Is something not working as expected on the annotation toolkit? Let us know!
+title: "[Bug] "
+labels: ["bug", "toolkit"]
 body:
   - type: markdown
     attributes:
       value: |
-        Have an idea for the annotation toolkit? Submit it using this issue template and we'll take it under consideration.
+        Thank you for filling out this bug report. Filling out this form will better help us address the issue you found.
   - type: input
     id: short-description
     attributes:
-      label: Short description of the feature
-      description: Please give a high-level description of the feature you're proposing.
+      label: Short description of the bug
+      description: Please give a high-level description of the bug you discovered.
     validations:
       required: true
   - type: textarea
     id: long-description
     attributes:
-      label: More details about the feature
-      description: Please provide more information about the feature you're proposing. The more information we have, the easier it will be to evaluate the ask. Include screenshots or video recordings if you feel they will be helpful.
+      label: More details about the bug
+      description: Please provide more information about the bug you discovered. The more information we have, the easier it will be to recreate and fix the issue. Include screenshots or video recordings if you feel they will be helpful.
     validations:
       required: true
   - type: checkboxes
@@ -30,6 +29,7 @@ body:
       options:
         - label: My images use descriptive alt text.
           required: true
+  - type: checkboxes
     id: code-of-conduct
     attributes:
       label: Code of Conduct
@@ -37,4 +37,3 @@ body:
       options:
         - label: I agree to follow this project's Code of Conduct
           required: true
----
