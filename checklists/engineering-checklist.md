@@ -103,7 +103,7 @@ If you don't have a designer on your project, or are not working with an accessi
 	- Exceptions to the rule are real time events (i.e. an auction) or when the time limit is beyond 20 hours.
 
 ### Resources
-- [Link & Button Guidance - GitHub Accessibility Playbook](https://accessibility-playbook.github.com/link-and-button-guidance)
+- ​[​Links and Buttons - Primer design guidance](https://primer.style/accessibility/design-guidance/links-and-buttons/)
 - [Links and Buttons Overview - University of Washington](https://www.washington.edu/accesstech/checklist/links-buttons/)
 - [Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size - Smashing Magazine](https://www.smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/)
 - [Foundations: pointer gestures - TetraLogical](https://tetralogical.com/blog/2023/03/17/foundations-pointer-gestures/)
