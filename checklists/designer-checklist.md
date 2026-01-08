@@ -151,7 +151,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 ### Resources
 
-- [Link and Button Guidance - A11y Playbook (Internal only)](https://accessibility-playbook.github.com/link-and-button-guidance) 
+- [Links and Buttons - Primer design guidance](https://primer.style/accessibility/design-guidance/links-and-buttons/)
 - [Links and Buttons Overview - University of Washington](https://www.washington.edu/accesstech/checklist/links-buttons/)
 
 ---

@@ -71,7 +71,7 @@ Make sure skip links have a clear destination, such as the main landmark region.
 
 ## Resources
 
-- ​[Link and Button guidance - GitHub Accessibility Playbook (Internal only)](https://accessibility-playbook.github.com/link-and-button-guidance)
+- [Links and Buttons - Primer design guidance](https://primer.style/accessibility/design-guidance/links-and-buttons/)
 - [Links and Buttons Overview - University of Washington](https://www.washington.edu/accesstech/checklist/links-buttons/)
 - [Understanding SC 2.4.4 Link Purpose (In Context) - WCAG](https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context)
 - [Link Pattern - ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/link/)

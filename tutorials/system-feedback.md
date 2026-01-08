@@ -215,6 +215,7 @@ The polite or assertive behavior of live region announcements can be simulated o
 
 ## Resources
 
+- [​Accessible notifications - Primer design guidance](https://primer.style/accessibility/patterns/accessible-notifications-and-messages/)
 - [aria-live regions - MDN](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Live_Regions)
 - [Accessible notifications with ARIA Live Regions (Part 1) - Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-1/)
 - [Accessible notifications with ARIA Live Regions (Part 2) - Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
