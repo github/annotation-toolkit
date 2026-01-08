@@ -56,6 +56,6 @@ Screen readers show a menu of all buttons on a page to help users understand wha
 
 ## Resources
 
-- [​Link and Button guidance - GitHub Accessibility Playbook (Internal only)](https://accessibility-playbook.github.com/link-and-button-guidance)
+- ​[​Links and Buttons - Primer design guidance](https://primer.style/accessibility/design-guidance/links-and-buttons/)
 - [Links and Buttons Overview - University of Washington](https://www.washington.edu/accesstech/checklist/links-buttons/)
 - [Getting To The Bottom Of Minimum WCAG-Conformant Interactive Element Size - Smashing Magazine](https://www.smashingmagazine.com/2024/07/getting-bottom-minimum-wcag-conformant-interactive-element-size/)
