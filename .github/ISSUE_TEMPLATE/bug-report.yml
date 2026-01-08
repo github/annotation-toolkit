@@ -1,5 +1,5 @@
-name: Annotation toolkit bug report
-description: Is something not working as expected on the annotation toolkit? Let us know!
+name: Annotation Toolkit Bug report 🐛
+description: Is something not working as expected on the Annotation Toolkit? Let us know!
 title: "[Bug] "
 labels: ["bug", "toolkit"]
 body:

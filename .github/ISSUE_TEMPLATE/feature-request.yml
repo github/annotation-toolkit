@@ -1,12 +1,12 @@
-name: Annotation toolkit feature request
-description: Request an addition to the annotation toolkit.
+name: Annotation Toolkit Feature request
+description: Suggest a new addition to the Annotation Toolkit.
 title: "[Feature request] "
 labels: ["feature request", "toolkit"]
 body:
   - type: markdown
     attributes:
       value: |
-        Have an idea for the annotation toolkit? Submit it using this issue template and we'll take it under consideration.
+        Have an idea for the Annotation Toolkit? Submit it using this issue template and we'll take it under consideration.
   - type: input
     id: short-description
     attributes:
