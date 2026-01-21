@@ -1,4 +1,3 @@
-
 # Welcome to the GitHub Annotation Toolkit
 
 The GitHub Annotation Toolkit is a Figma asset library packed with components to help you organize your design canvas, diagram UI anatomy, and annotate accessibility details. Whether you’re a designer, developer, or product manager, this toolkit meets you where you are—you don’t need to be an accessibility expert. It’s flexible enough to document broad accessibility considerations or dig into the fine details of complex components.
@@ -6,8 +5,7 @@ The GitHub Annotation Toolkit is a Figma asset library packed with components to
 > [!IMPORTANT]
 > **Tell us what you think!** We would love your feedback and [contributions](./CONTRIBUTING.md) to help improve the Annotation Toolkit, including any examples of how you’ve used or customized this library. Just open an [issue](https://github.com/github/annotation-toolkit/issues) in this repository. GitHub staff can reach out via Slack.
 
-
-<img width="3840" height="2160" alt="Figma library cover for the GitHub Annotation Toolkit with a grid background that looks like a starry night sky. There's an armada of little annotation stamp labels covering the bottom two thirds of the image, all at an angle. There's a series of angled git lines above them. Both look like they're launching from the ground and through into the sky grid." src=".images/File-Cover.png" />
+<img width="1920" height="1080" alt="Figma library cover for the GitHub Annotation Toolkit with a grid background that looks like a starry night sky. There's an armada of little annotation stamp labels covering the bottom two thirds of the image, all at an angle. There's a series of angled git lines above them. Both look like they're launching from the ground and through into the sky grid." src=".images/File-Cover.png" />
 
 <!-- add link to the Figma Community file here -->
 
