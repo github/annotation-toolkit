@@ -221,5 +221,6 @@ The polite or assertive behavior of live region announcements can be simulated o
 - [Accessible notifications with ARIA Live Regions (Part 2) - Sara Soueidan](https://www.sarasoueidan.com/blog/accessible-notifications-with-aria-live-regions-part-2/)
 - [Why are my Live Regions not working? - TetraLogical](https://tetralogical.com/blog/2024/05/01/why-are-my-live-regions-not-working/)
 - [Are we live? - Scott O’Hara](https://www.scottohara.me/blog/2022/02/05/are-we-live.html)
+- [Live Region Support - Adrian Roselli](https://adrianroselli.com/2026/01/live-region-support.html)
 - [Exposing Field Errors - Adrian Roselli](https://adrianroselli.com/2023/04/exposing-field-errors.html)
 - [The Many Lives of a Notification (Video) - Sarah Higley](https://www.youtube.com/live/W5YAaLLBKhQ?si=SxKUbgEKmGxItV8D)
