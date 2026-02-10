@@ -122,6 +122,7 @@ Place a **❖ Tab order list** component in the margins next to the design and c
 
 ## Resources
 
+- [You probably shouldn’t be annotating focus order - Eric Bailey](https://ericwbailey.website/published/you-probably-shouldnt-be-annotating-focus-order/)
 - [​Understanding 2.4.3 - Focus Order - WCAG](https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html)
 - [Placing the interactive elements in an order that follows sequences and relationships within the content - W3C](https://www.w3.org/WAI/WCAG22/Techniques/general/G59)
 - [Learning to focus() by Heydon Pickering - SitePoint](https://www.sitepoint.com/learning-to-focus/)
