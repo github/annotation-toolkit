@@ -124,8 +124,8 @@ This project uses GitHub issues to track bugs and feature requests. Please searc
 
 ## Contributors
 Special thanks to the following legends for their early feedback and help improving this library.
-- [@alexislucio](https://github.com/alexislucio)
-- [@ericwbailey](https://github.com/ericwbailey)
+- [Alexis Lucio](https://github.com/alexislucio)
+- [Eric Bailey](https://github.com/ericwbailey)
 - [Chelsea Adelman](https://www.linkedin.com/in/chelsea-adelman/)
 - [Joe Lamyman](https://www.linkedin.com/in/joelamyman/)
 - [Demelza Feltham](https://www.linkedin.com/in/demelza-feltham-76bb9594/)
