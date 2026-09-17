@@ -111,12 +111,12 @@ This project uses GitHub issues to track bugs and feature requests. Please searc
 > [!NOTE]
 > ### Support for GitHub staff (Internal only)
 > 
-> - React to any Slack message with the emoji: `:a11y-design-i-would-like-help-with-this:`
-> - Message us in the **#accessibility-design** or **#annotation-toolkit** Slack channels
-> - Schedule a [pairing session](https://gh.io/a11y-design-pairing) for a quick check-in, collaboration on a complex problem, or 1:1 coaching
-> - Submit an [A11y Design Office Hours request](https://gh.io/a11y-oh-issue) for design reviews and guidance every Tuesday and Thursday
-> - Catch up on our [A11y Design Checklist video series](https://gh.io/a11y-design-checkpoints)
-> - Visit the [Accessibility Design](https://gh.io/accessibility-design) repository
+> - Ask quick accessibility questions in **#accessibility**
+> - Ask Annotation Toolkit questions in **#annotation-toolkit**
+> - Request an [Accessibility Design pairing session](https://gh.io/a11y-design-pairing) for complex interactions or unfamiliar patterns
+> - Submit an [Accessibility Office Hours request](https://gh.io/a11y-oh-issue) for focused design and implementation feedback
+> - Watch the [historical Design Checklist video series](https://gh.io/a11y-design-checkpoints)
+> - Read the [Accessibility Design guide](https://gh.io/accessibility-design)
 
 ## Maintainers
 - [@janmaarten-a11y](https://github.com/janmaarten-a11y), Senior Accessibility Designer & Project Lead
