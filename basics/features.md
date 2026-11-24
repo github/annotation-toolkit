@@ -84,7 +84,7 @@ Note any specific keyboard shortcuts that a page, component, or control may prov
 ### [User interactions](../tutorials/user-interactions.md)
 Communicate various basic, specialized, and advanced touch gestures, mouse actions, target sizes, device settings, and platform functions.
 
-<img width="800" src="../.images/features-user-interactions.png" alt="Five light gray stamps conveying user interactions. From left to right: a pointer finger with a purple ring around it and label single tap; a mouse icon with right clicker dashed and label right click; a silhouette of a face with vertical bars coming out the mouth and label voice input; a purple circle with slowly disappearing tail and label loading; and a semi-translucent purple square with a full-screen octicon for Interaction Target Area.">
+<img width="800" src="../.images/features-user-interactions.png" alt="Five stamps conveying user interactions. From left to right: a pointer finger with a purple ring around it and label single tap; a mouse icon with right clicker dashed and label right click; a silhouette of a face with vertical bars coming out the mouth and label voice input; a purple circle with slowly disappearing tail and label loading; and a semi-translucent purple square with a full-screen octicon for Interaction Target Area.">
 
 ## Document complex components
 Fill in the gaps that aren’t obvious from visuals and properties alone.

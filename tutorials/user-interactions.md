@@ -127,6 +127,8 @@ Larger targets and enough space between them help people activate the intended c
 
 On mobile devices, fingers can obscure small targets, and movement or one-handed use can make precise tapping harder. Follow the platform's guidance for target size and spacing.
 
+<img src="Images/target-size-annotation.png" alt="Purple Interaction Target Area stamps in three sizes. On the left, the stamps use the Default style and square corners. On the right, the stamps use the Inverted style and rounded corners, and the largest stamp displays the optional 1 Note label." width="1012">
+
 ### How to use
 
 1. Add the **Interaction Target Area** component from the asset panel. Position it over the control so the inside edge of the outline marks the target's edge. Resize the component to fully overlap the intended interactive area.
