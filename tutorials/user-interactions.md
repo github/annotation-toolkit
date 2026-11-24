@@ -131,15 +131,16 @@ On mobile devices, fingers can obscure small targets, and movement or one-handed
 
 1. Add the **Interaction Target Area** component from the asset panel. Position it over the control so the inside edge of the outline marks the target's edge. Resize the component to fully overlap the intended interactive area.
 2. Alternatively, use one of the target area minimum preset options. Under **Appearance**, select an **Interaction target size** mode:
-   - **24px** (WCAG minimum)
-   - **44px** (iOS minimum)
-   - **48px** (Android minimum)
+   - `24px (WCAG minimum)`
+   - `44px (iOS minimum)`
+   - `48px (Android minimum)`
 
-   Note: If you resize the component manually, this overwrites the preset size variables, so choosing **Interaction target size** after this will have no effect. Resolve this by resetting the component size.
+> [!NOTE]
+> If you resize the component manually, this overwrites the preset size variables, so choosing **Interaction target size** after this will have no effect. Resolve this by resetting the component size.
 
 <img src="Images/target-size-how-to-steps-1-2.png" alt="How to use steps 1 and 2 for Interaction Target Area. A semi-translucent purple target stamp with a full-screen icon overlays the Edit file button, and the right-side panel shows target size preset options." width="1012">
 
-3. Select an **Interaction target corners** mode to match the target's rounded or square shape. Choose **Default** for light surfaces or **Inverted** for dark surfaces.
+3. Select an **Interaction target corners** mode to match the target's rounded or square shape. Choose `Default` for light surfaces or `Inverted` for dark surfaces.
 4. Optionally, enable **Show label** to display the **Note** stamp label. This lets you add context in the margins using a **Note Details** annotation. If you prefer a shorter string, you can also change the stamp label itself (for example, to specify pixel dimensions).
 
 <img src="Images/target-size-how-to-appearance-variables.png" alt="How to use steps 3 and 4 for Interaction Target Area. Show label is enabled, the paired Note stamp and Note Details annotation are visible, and the right-side panel shows label and note pairing controls." width="1012">
