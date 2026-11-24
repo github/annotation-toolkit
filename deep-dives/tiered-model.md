@@ -15,7 +15,7 @@ _See the Tiered Model for [Difficulty](#the-tiered-model-difficulty)_
 
 ## The Tiered Model: **Priority**
 
-<img width="800" alt="A slide listing 3 tiers of annotations. Tier 1 (Mandatory) includes Headings, Page structure, Buttons, Links, Images, and Form elements. Tier 2 (Ideal) includes Focus order, Landmarks, Language, Lists, Page title, audio, video and Primer A11y Presets. Tier 3 (Nice to have) includes Complex ordering such as arrow stops and reading order, Keyboard shortcuts, System feedback, Live regions, Tables, and user interactions." src="../.images/tiered-priority.png" />
+<img width="800" alt="A slide listing 3 tiers of annotations. Tier 1 (Mandatory) includes Headings, Page structure, Buttons, Links, Images, and Form elements. Tier 2 (Ideal) includes Focus order, Landmarks, Language, Lists, Page title, Interaction target areas, audio, video and Primer A11y Presets. Tier 3 (Nice to have) includes Complex ordering such as arrow stops and reading order, Keyboard shortcuts, System feedback, Live regions, Tables, and user interactions." src="../.images/tiered-priority.png" />
 
 ### ⚠️ Tier 1: Mandatory
 These types of annotations should be a vital part of every ship. The Accessibility team would consider mandatory as we've seen the most issues and risk from these types of elements. 
@@ -50,7 +50,7 @@ These annotations are (combined with Tier 1 & 2) are nice to have and can help u
 
 ## The Tiered Model: **Difficulty**
 
-<img width="800" alt="A slide listing 3 tiers of annotations. Tier 1 (Easy) includes Headings, Page structure, Buttons, Links, Images, Page Title, Audio and Video. Tier 2 (Moderate) includes Focus order, Form element, Landmarks, Language, Lists, System feedback, and Primer A11y Presets. Tier 3 (Advanced) includes Complex ordering such as arrow stops and reading order, Keyboard shortcuts, Mobile annotations, Live regions, Tables, and user interactions." src="../.images/tiered-difficulty.png" />
+<img width="800" alt="A slide listing 3 tiers of annotations. Tier 1 (Easy) includes Headings, Page structure, Buttons, Links, Images, Page Title, Audio and Video. Tier 2 (Moderate) includes Focus order, Form element, Landmarks, Language, Lists, Interaction target areas, System feedback, and Primer A11y Presets. Tier 3 (Advanced) includes Complex ordering such as arrow stops and reading order, Keyboard shortcuts, Mobile annotations, Live regions, Tables, and user interactions." src="../.images/tiered-difficulty.png" />
 
 
 ### 🟢 Tier 1: Easy
