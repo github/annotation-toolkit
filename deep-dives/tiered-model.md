@@ -29,6 +29,7 @@ These types of annotations should be a vital part of every ship. The Accessibili
 ### ☑️ Tier 2: Ideal
 These annotations, combined with Tier 1, are the **ideal** level of annotation to aim for.
 - Focus order
+- Interaction target area
 - Landmark
 - Language
 - List
@@ -66,6 +67,7 @@ These types of annotations are the easiest to pick up for anyone new to annotati
 These annotations require a bit more knowledge of accessibility to fully grasp.
 - Focus order
 - Form element
+- Interaction target area
 - Landmark
 - Language
 - List

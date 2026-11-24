@@ -79,7 +79,7 @@ For GitHub staff, the "Annotation Toolkit" is enabled in the Figma Asset  panel 
 - [How-to: Primer components](tutorials/primer-presets.md) - How to use Primer A11y Presets
 - [How to: System Feedback](tutorials/system-feedback.md) - States and Live regions
 - [How to: Table](tutorials/table.md)
-- [How to: User Interactions](tutorials/user-interactions.md) - Keyboard shortcuts, touch gestures, mouse actions, device settings, platform functions
+- [How to: User Interactions](tutorials/user-interactions.md) - Keyboard shortcuts, touch gestures, mouse actions, device settings, platform functions, interaction target sizes
 
 ### Checklists and references
 - [The Tiered Model](deep-dives/tiered-model.md) - Prioritizing around time constraints or knowledge gaps
