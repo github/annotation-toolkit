@@ -127,7 +127,7 @@ Larger targets and enough space between them help people activate the intended c
 
 On mobile devices, fingers can obscure small targets, and movement or one-handed use can make precise tapping harder. Follow the platform's guidance for target size and spacing.
 
-<img src="Images/target-size-annotation.png" alt="Purple Interaction Target Area stamps in three sizes. On the left, the stamps use the Default style and square corners. On the right, the stamps use the Inverted style and rounded corners, and the largest stamp displays the optional 1 Note label." width="1012">
+<img src="Images/target-size-annotation.png" alt="Purple Interaction Target Area stamps in three sizes. On the left, the stamps use the Default style and square corners. On the right, the stamps use the Inverted style and rounded corners." width="1012">
 
 ### How to use
 
@@ -140,12 +140,12 @@ On mobile devices, fingers can obscure small targets, and movement or one-handed
 > [!NOTE]
 > If you resize the component manually, this overwrites the preset size variables, so choosing **Interaction target size** after this will have no effect. Resolve this by resetting the component size.
 
-<img src="Images/target-size-how-to-steps-1-2.png" alt="How to use steps 1 and 2 for Interaction Target Area. A semi-translucent purple target stamp with a full-screen icon overlays the Edit file button, and the right-side panel shows target size preset options." width="1012">
+<img src="Images/target-size-how-to-steps-1-2.png" alt="How to use steps 1 and 2 for Interaction Target Area. A semi-translucent purple target stamp with a full-screen icon overlays the Edit file button. The right-side panel shows the Default style, with Target corners set to Rounded and Target size preset set to 24px (WCAG minimum) under Appearance." width="1012">
 
 3. Select an **Interaction target corners** mode to match the target's rounded or square shape. Choose `Default` for light surfaces or `Inverted` for dark surfaces.
-4. Optionally, enable **Show label** to display the **Note** stamp label. This lets you add context in the margins using a **Note Details** annotation. If you prefer a shorter string, you can also change the stamp label itself (for example, to specify pixel dimensions).
+4. Optionally, place a separate [**UI Stamp**](basic-notes.md#ui-stamp) next to the target area. Use a text label for brief details such as pixel dimensions, or a circle with a number.
 
-<img src="Images/target-size-how-to-appearance-variables.png" alt="How to use steps 3 and 4 for Interaction Target Area. Show label is enabled, the paired Note stamp and Note Details annotation are visible, and the right-side panel shows label and note pairing controls." width="1012">
+<img src="Images/target-size-how-to-appearance-variables.png" alt="How to use steps 3 and 4 for Interaction Target Area. Two UI Stamps point to the target area: one above with a 24×24 text label, and one to the right with the number 1, which matches a Note Details annotation titled Target area. The right-side panel shows the selected UI Stamp with Label type set to number and Pointer set to pin." width="1012">
 
 The component's dimensions include space for the outline, so a 24 preset measures 26 × 26 in Figma.
 
