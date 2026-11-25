@@ -145,6 +145,7 @@ Use it side by side as you develop products to make sure you’ve accounted for 
 
 - [Button](https://gh.io/annotation-tutorial-button)
 - [Link](https://gh.io/annotation-tutorial-link)
+- [Target size](https://gh.io/annotation-tutorial-target-size)
   
 <img alt="Annotation stamp for link and button, which are dark blue and lime in color." src="../.images/checklist-interactivity.png" width="272">
 

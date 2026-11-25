@@ -6,6 +6,7 @@ People engage with designs in different ways, often influenced by disabilities, 
 - [Keyboard shortcut](#keyboard-shortcut)
 - [Touch gesture](#touch-gesture)
 - [Mouse action](#mouse-action)
+- [Target size](#target-size)
 - [Device setting](#device-setting)
 - [Platform function](#platform-function)
 
@@ -112,6 +113,46 @@ Avoid using these. Advanced mouse actions require a level of physical ability an
 <img src="Images/advanced-mouse.png" alt="Two squares showing mouse gesture types against a red background. Each has an illustration previously described in the main illustration. From left to right, the annotations are: click and hold, drag and drop." width="557">
 
 
+## Target size
+
+Use the Interaction Target Area component to mark the area where a person can click or tap a control. This area can extend beyond the control's visible edges.
+
+### [Annotation Tiers](https://github.com/github/annotation-toolkit/blob/main/deep-dives/tiered-model.md)
+- Difficulty Tier 2: **Moderate**
+- Priority Tier 2: **Ideal**
+
+### Why?
+
+Larger targets and enough space between them help people activate the intended control, including people who use touch or have limited dexterity. [WCAG 2.5.8 Target Size (Minimum)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html) sets a minimum target size of 24 × 24, with exceptions such as sufficient spacing between targets. [WCAG 2.5.5 Target Size (Enhanced)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html) raises that to 44 × 44 for Level AAA.
+
+On mobile devices, fingers can obscure small targets, and movement or one-handed use can make precise tapping harder. Follow the platform's guidance for target size and spacing.
+
+<img src="Images/target-size-annotation.png" alt="Purple Interaction Target Area stamps in three sizes. On the left, the stamps use the Default style and square corners. On the right, the stamps use the Inverted style and rounded corners." width="1012">
+
+### How to use
+
+1. Add the **Interaction Target Area** component from the asset panel. Position it over the control so the inside edge of the outline marks the target's edge. Resize the component to fully overlap the intended interactive area.
+2. Alternatively, use one of the target area minimum preset options. Under **Appearance**, select an **Interaction target size** mode:
+   - `24px (WCAG minimum)`
+   - `44px (iOS minimum)`
+   - `48px (Android minimum)`
+
+> [!NOTE]
+> If you resize the component manually, this overwrites the preset size variables, so choosing **Interaction target size** after this will have no effect. Resolve this by resetting the component size.
+
+<img src="Images/target-size-how-to-steps-1-2.png" alt="How to use steps 1 and 2 for Interaction Target Area. A semi-translucent purple target stamp with a full-screen icon overlays the Edit file button. The right-side panel shows the Default style, with Target corners set to Rounded and Target size preset set to 24px (WCAG minimum) under Appearance." width="1012">
+
+3. Select an **Interaction target corners** mode to match the target's rounded or square shape. Choose `Default` for light surfaces or `Inverted` for dark surfaces.
+4. Optionally, place a separate [**UI Stamp**](basic-notes.md#ui-stamp) next to the target area. Use a text label for brief details such as pixel dimensions, or a circle with a number.
+
+<img src="Images/target-size-how-to-appearance-variables.png" alt="How to use steps 3 and 4 for Interaction Target Area. Two UI Stamps point to the target area: one above with a 24×24 text label, and one to the right with the number 1, which matches a Note Details annotation titled Target area. The right-side panel shows the selected UI Stamp with Label type set to number and Pointer set to pin." width="1012">
+
+The component's dimensions include space for the outline, so a 24 preset measures 26 × 26 in Figma.
+
+> [!WARNING]
+> Caution: A preset alone does not establish WCAG conformance. Spacing and other exceptions also affect whether a target meets the requirement.
+
+
 ## Device setting
 
 Device settings refer to preferences or configurations that a user sets at the system or device level to customize how content is displayed or how interactions behave. These, like touch gestures and mouse actions, should also be approached with caution. 
@@ -207,6 +248,7 @@ Cognitive puzzles (such as CAPTCHA) can be a struggle for people with cognitive 
 - Are any input types required to complete a task? If so, is there an accessible alternative?
 - Are you relying on a gesture or interaction that may not be supported across all input types (e.g., pinch to zoom, hover)?
 - Have you considered how users will discover interactive elements using each input method?
+- Are target areas large enough and spaced to prevent accidental activation of adjacent controls?
 
 ## Resources
 
@@ -216,3 +258,7 @@ Cognitive puzzles (such as CAPTCHA) can be a struggle for people with cognitive 
 - [Home Office Design System: Gestures and motion](https://design.homeoffice.gov.uk/accessibility/gestures-and-motion)
 - [W3C: Understanding 2.5.1 - Pointer Gestures (Level A)](https://www.w3.org/WAI/WCAG21/Understanding/pointer-gestures.html)
 - [W3C: Understanding 2.5.7 - Dragging Movements (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements)
+- [W3C: Understanding 2.5.8 - Target Size (Minimum) (Level AA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html)
+- [W3C: Understanding 2.5.5 - Target Size (Enhanced) (Level AAA)](https://www.w3.org/WAI/WCAG22/Understanding/target-size-enhanced.html)
+- [Apple: Accessibility - Mobility](https://developer.apple.com/design/human-interface-guidelines/accessibility#Mobility)
+- [Android: Use large, simple controls](https://developer.android.com/guide/topics/ui/accessibility/apps#large-touch-targets)

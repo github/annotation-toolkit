@@ -82,9 +82,9 @@ Note any specific keyboard shortcuts that a page, component, or control may prov
 <img width="800" src="../.images/features-keyboard-shortcuts.png" alt="Annotation stamps for individual keyboard keys: Control, Alt, Shift, Command, Option, Shift, Escape, Tab, Backspace, Delete, Space, Enter, Home, End, Page Up, Page Down, Left Arrow, Right Arrow, Up Arrow and Down Arrow. All are light gray and have a slight shadow to resemble a key on a keyboard.">
 
 ### [User interactions](../tutorials/user-interactions.md)
-Communicate various basic, specialized, and advanced touch gestures, mouse actions, device settings, and platform functions.
+Communicate various basic, specialized, and advanced touch gestures, mouse actions, target sizes, device settings, and platform functions.
 
-<img width="800" src="../.images/features-user-interactions.png" alt="Four light gray stamps conveying user interactions. From left to right: a pointer finger with a purple ring around it and label single tap; a mouse icon with right clicker dashed and label “right click”; a silhouette of a face with vertical bars coming out the mouth and label: voice input; a purple circle with slowly disappearing tail and label: loading.">
+<img width="800" src="../.images/features-user-interactions.png" alt="Five stamps conveying user interactions. From left to right: a pointer finger with a purple ring around it and label single tap; a mouse icon with right clicker dashed and label right click; a silhouette of a face with vertical bars coming out the mouth and label voice input; a purple circle with slowly disappearing tail and label loading; and a semi-translucent purple square with a full-screen octicon for Interaction Target Area.">
 
 ## Document complex components
 Fill in the gaps that aren’t obvious from visuals and properties alone.
